@@ -111,7 +111,7 @@ pip install pandas numpy matplotlib seaborn
 * Dashboard Preview
 * ## 📊 Dashboard
 
-<img src="images/dashboard.png" width="900">
+<img src="images/Data_Analytics_dashboard.png" width="900">
 
 👉 Insight: Clothing category contributes highest revenue and middle-aged customers drive most sales.
 
