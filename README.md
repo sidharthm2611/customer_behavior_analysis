@@ -108,6 +108,7 @@ pip install pandas numpy matplotlib seaborn
 
 * Open `.pbix` file in Power BI Desktop
 * Refresh data if required
+* Dashboard Preview
 
 ---
 
