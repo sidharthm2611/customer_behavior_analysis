@@ -109,6 +109,11 @@ pip install pandas numpy matplotlib seaborn
 * Open `.pbix` file in Power BI Desktop
 * Refresh data if required
 * Dashboard Preview
+* ## 📊 Dashboard
+
+<img src="images/dashboard.png" width="900">
+
+👉 Insight: Clothing category contributes highest revenue and middle-aged customers drive most sales.
 
 ---
 
