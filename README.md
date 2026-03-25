@@ -2,7 +2,7 @@
 
 ## 🔎 Overview
 
-This project demonstrates an end-to-end data analytics workflow — from data loading and exploration to dashboard creation and reporting. The objective is to extract meaningful insights from raw data and present them in a clear, business-friendly format.
+This project demonstrates an end-to-end data analytics workflow  from data loading and exploration to dashboard creation and reporting. The objective is to extract meaningful insights from raw data and present them in a clear, business-friendly format.
 
 ---
 
@@ -10,7 +10,7 @@ This project demonstrates an end-to-end data analytics workflow — from data lo
 
 The dataset used in this project contains structured data related to business performance metrics such as sales, customers, and product trends.
 
-* Source: Public dataset / company dataset (mention actual source)
+* Source: Public dataset / company dataset 
 * Format: CSV / Excel / Database tables
 * Size: (mention number of rows & columns)
 
